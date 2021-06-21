@@ -1,0 +1,11 @@
+Model Information:
+* title:	Human teeth
+* source:	https://sketchfab.com/3d-models/human-teeth-d3daee92c71b40ab86ac528c5f2f560a
+* author:	sassimedamine (https://sketchfab.com/sassimedamine)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Human teeth" (https://sketchfab.com/3d-models/human-teeth-d3daee92c71b40ab86ac528c5f2f560a) by sassimedamine (https://sketchfab.com/sassimedamine) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
