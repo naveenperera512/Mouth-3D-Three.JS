@@ -1,0 +1,426 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 5255,
+      "max": [
+        0.46189507842063904,
+        -0.95295274257659912,
+        1.0347174406051636
+      ],
+      "min": [
+        -0.47400003671646118,
+        -1.7050491571426392,
+        0.07270476222038269
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 63060,
+      "componentType": 5126,
+      "count": 5255,
+      "max": [
+        0.99977201223373413,
+        0.99998223781585693,
+        0.99999380111694336
+      ],
+      "min": [
+        -0.99993497133255005,
+        -0.99998348951339722,
+        -0.99899065494537354
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 5255,
+      "max": [
+        0.86666667461395264,
+        0.25098040699958801,
+        0.25098040699958801,
+        1
+      ],
+      "min": [
+        0.86666667461395264,
+        0.25098040699958801,
+        0.25098040699958801,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 5255,
+      "max": [
+        0.99785888195037842,
+        0.99804693460464478
+      ],
+      "min": [
+        0.0019531266298145056,
+        0.0019531263969838619
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 42040,
+      "componentType": 5126,
+      "count": 5255,
+      "max": [
+        0.99785888195037842,
+        0.99804693460464478
+      ],
+      "min": [
+        0.0019531266298145056,
+        0.0019531263969838619
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 30426,
+      "max": [
+        5254
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 126120,
+      "componentType": 5126,
+      "count": 14360,
+      "max": [
+        0.43080329895019531,
+        -0.96126866340637207,
+        1.0297024250030518
+      ],
+      "min": [
+        -0.45241111516952515,
+        -1.690882682800293,
+        0.19657565653324127
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 298440,
+      "componentType": 5126,
+      "count": 14360,
+      "max": [
+        0.9999966025352478,
+        0.99994385242462158,
+        0.99984979629516602
+      ],
+      "min": [
+        -0.99995452165603638,
+        -0.99962139129638672,
+        -0.99996691942214966
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 84080,
+      "componentType": 5126,
+      "count": 14360,
+      "max": [
+        0.92549020051956177,
+        0.92549020051956177,
+        0.92549020051956177,
+        1
+      ],
+      "min": [
+        0.86666667461395264,
+        0.25098040699958801,
+        0.25098040699958801,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 84080,
+      "componentType": 5126,
+      "count": 14360,
+      "max": [
+        0.98919183015823364,
+        0.998046875
+      ],
+      "min": [
+        0.0019531226716935635,
+        0.0019531226716935635
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 198960,
+      "componentType": 5126,
+      "count": 14360,
+      "max": [
+        0.98919183015823364,
+        0.998046875
+      ],
+      "min": [
+        0.0019531226716935635,
+        0.0019531226716935635
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 121704,
+      "componentType": 5125,
+      "count": 80802,
+      "max": [
+        14359
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "sassimedamine (https://sketchfab.com/sassimedamine)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/human-teeth-d3daee92c71b40ab86ac528c5f2f560a",
+      "title": "Human teeth"
+    },
+    "generator": "Sketchfab-9.94.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 444912,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 313840,
+      "byteOffset": 444912,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 470760,
+      "byteOffset": 758752,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 313840,
+      "byteOffset": 1229512,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 1543352,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "Low_Teeth27",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.5,
+          0.5,
+          0.5,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "Low_Teeth25",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.5,
+          0.5,
+          0.5,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Low_Teeth27_Low_Teeth27_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 2,
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 3,
+            "TEXCOORD_1": 4
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Low_Teeth25_Low_Teeth25_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 8,
+            "NORMAL": 7,
+            "POSITION": 6,
+            "TEXCOORD_0": 9,
+            "TEXCOORD_1": 10
+          },
+          "indices": 11,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        -1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "d5420798caed453b8788eb9e2095e93d.fbx"
+    },
+    {
+      "children": [
+        4,
+        6,
+        8
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        5
+      ],
+      "name": "Low_Teeth27"
+    },
+    {
+      "mesh": 0,
+      "name": "Low_Teeth27_Low_Teeth27_0"
+    },
+    {
+      "children": [
+        7
+      ],
+      "name": "Low_Teeth25"
+    },
+    {
+      "mesh": 1,
+      "name": "Low_Teeth25_Low_Teeth25_0"
+    },
+    {
+      "children": [
+        9
+      ],
+      "matrix": [
+        2.2204460492503131e-16,
+        0,
+        -1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        2.2204460492503131e-16,
+        0,
+        -0.24548926949501038,
+        -1.6859289407730103,
+        2427.895751953125,
+        1
+      ],
+      "name": "ZBrushDefault"
+    },
+    {
+      "name": ""
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}
+
