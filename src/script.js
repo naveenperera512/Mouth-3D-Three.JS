@@ -8,6 +8,7 @@ import { WireframeGeometry } from 'three'
 // import gsap from 'gsap'
 // import { LinearFilter, Mesh } from 'three'
 
+const debugObject = {}
 
 const gui = new dat.GUI()
 
@@ -79,7 +80,7 @@ gltfLoader.load(
 
 
 const geometry = new THREE.CircleGeometry (1, 32 );
-const material = new THREE.MeshBasicMaterial( { color: '#000' } )
+const material = new THREE.MeshBasicMaterial( { color: '#121C24' } )
 const mesh = new THREE.Mesh( geometry, material );
 scene.add( mesh );
 
@@ -97,6 +98,8 @@ directionalLight.shadow.camera.bottom = -10
 directionalLight.position.set(-20, 30, 25)
 scene.add(directionalLight)
 
+debugObject.clearColor = '#121C24'
+renderer.setClearColor(debugObject.clearColor)
 
 const camera = new THREE.PerspectiveCamera(100, sizes.width / sizes.height, 0.1)
 camera.position.set(0, 0, 30)
