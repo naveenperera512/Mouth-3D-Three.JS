@@ -1,0 +1,355 @@
+{
+    "asset" : {
+        "generator" : "Khronos glTF Blender I/O v1.6.16",
+        "version" : "2.0"
+    },
+    "scene" : 0,
+    "scenes" : [
+        {
+            "name" : "Scene",
+            "nodes" : [
+                8
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "mesh" : 0,
+            "name" : "Box001_01 - Default_0"
+        },
+        {
+            "mesh" : 1,
+            "name" : "Box001_Material #47_0"
+        },
+        {
+            "children" : [
+                0,
+                1
+            ],
+            "name" : "Box001",
+            "rotation" : [
+                -0.7071068286895752,
+                0,
+                0,
+                0.7071068286895752
+            ]
+        },
+        {
+            "mesh" : 2,
+            "name" : "Cylinder001_Material #63 Slot #1_0"
+        },
+        {
+            "children" : [
+                3
+            ],
+            "name" : "Cylinder001",
+            "rotation" : [
+                -0.7071068286895752,
+                0,
+                0,
+                0.7071068286895752
+            ],
+            "scale" : [
+                0.981195867061615,
+                0.981195867061615,
+                0.981195867061615
+            ],
+            "translation" : [
+                0,
+                4.515315532684326,
+                -105.84719848632812
+            ]
+        },
+        {
+            "children" : [
+                2,
+                4
+            ],
+            "name" : "RootNode"
+        },
+        {
+            "children" : [
+                5
+            ],
+            "name" : "8412f19a0b7e4e97bf37891f51ea7e44.fbx",
+            "rotation" : [
+                0.7071068286895752,
+                0,
+                0,
+                0.7071068286895752
+            ]
+        },
+        {
+            "children" : [
+                6
+            ],
+            "name" : "RootNode (model correction matrix)"
+        },
+        {
+            "children" : [
+                7
+            ],
+            "name" : "RootNode (gltf orientation matrix)",
+            "rotation" : [
+                -0.7071068286895752,
+                0,
+                0,
+                0.7071068286895752
+            ]
+        }
+    ],
+    "materials" : [
+        {
+            "doubleSided" : true,
+            "name" : "01_-_Default",
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    0.18431399762630463,
+                    0,
+                    0.521569013595581,
+                    1
+                ],
+                "metallicFactor" : 0,
+                "roughnessFactor" : 0.8512389659881592
+            }
+        },
+        {
+            "doubleSided" : true,
+            "name" : "Material_47",
+            "pbrMetallicRoughness" : {
+                "metallicFactor" : 0,
+                "roughnessFactor" : 0.8512389659881592
+            }
+        },
+        {
+            "doubleSided" : true,
+            "name" : "Material_63_Slot_1",
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    0,
+                    0,
+                    0,
+                    1
+                ],
+                "metallicFactor" : 0,
+                "roughnessFactor" : 0.9577051401138306
+            }
+        }
+    ],
+    "meshes" : [
+        {
+            "name" : "Box001_01 - Default_0",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 0,
+                        "NORMAL" : 1,
+                        "TEXCOORD_0" : 2
+                    },
+                    "indices" : 3,
+                    "material" : 0
+                }
+            ]
+        },
+        {
+            "name" : "Box001_Material #47_0",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 4,
+                        "NORMAL" : 5,
+                        "TEXCOORD_0" : 6
+                    },
+                    "indices" : 7,
+                    "material" : 1
+                }
+            ]
+        },
+        {
+            "name" : "Cylinder001_Material #63 Slot #1_0",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 8,
+                        "NORMAL" : 9,
+                        "TEXCOORD_0" : 10
+                    },
+                    "indices" : 11,
+                    "material" : 2
+                }
+            ]
+        }
+    ],
+    "accessors" : [
+        {
+            "bufferView" : 0,
+            "componentType" : 5126,
+            "count" : 10515,
+            "max" : [
+                6.201687335968018,
+                81.74921417236328,
+                13.40620231628418
+            ],
+            "min" : [
+                -6.201688289642334,
+                -39.5228271484375,
+                -0.3498096764087677
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 1,
+            "componentType" : 5126,
+            "count" : 10515,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 2,
+            "componentType" : 5126,
+            "count" : 10515,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 3,
+            "componentType" : 5123,
+            "count" : 59328,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 4,
+            "componentType" : 5126,
+            "count" : 20192,
+            "max" : [
+                7.165513038635254,
+                133.34268188476562,
+                12.862105369567871
+            ],
+            "min" : [
+                -7.165513515472412,
+                -37.995872497558594,
+                -0.8632646799087524
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 5,
+            "componentType" : 5126,
+            "count" : 20192,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 6,
+            "componentType" : 5126,
+            "count" : 20192,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 7,
+            "componentType" : 5123,
+            "count" : 118656,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 8,
+            "componentType" : 5126,
+            "count" : 162,
+            "max" : [
+                5.422156810760498,
+                17.026994705200195,
+                9.500658988952637
+            ],
+            "min" : [
+                -5.422156810760498,
+                -0.21950113773345947,
+                8.336160659790039
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 9,
+            "componentType" : 5126,
+            "count" : 162,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 10,
+            "componentType" : 5126,
+            "count" : 162,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 11,
+            "componentType" : 5123,
+            "count" : 168,
+            "type" : "SCALAR"
+        }
+    ],
+    "bufferViews" : [
+        {
+            "buffer" : 0,
+            "byteLength" : 126180,
+            "byteOffset" : 0
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 126180,
+            "byteOffset" : 126180
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 84120,
+            "byteOffset" : 252360
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 118656,
+            "byteOffset" : 336480
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 242304,
+            "byteOffset" : 455136
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 242304,
+            "byteOffset" : 697440
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 161536,
+            "byteOffset" : 939744
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 237312,
+            "byteOffset" : 1101280
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1944,
+            "byteOffset" : 1338592
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1944,
+            "byteOffset" : 1340536
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1296,
+            "byteOffset" : 1342480
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 336,
+            "byteOffset" : 1343776
+        }
+    ],
+    "buffers" : [
+        {
+            "byteLength" : 1344112,
+            "uri" : "brush.bin"
+        }
+    ]
+}

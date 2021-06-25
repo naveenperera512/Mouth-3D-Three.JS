@@ -63,7 +63,7 @@ gltfLoader.load(
 )
 
 gltfLoader.load(
-    'models/toothbrush/scene.gltf',
+    'models/toothbrush/brush.gltf',
     (gltf) =>
     {
         brush = gltf
@@ -78,6 +78,17 @@ gltfLoader.load(
     }
 )
 
+gltfLoader.load(
+    'models/fiber/fiber.gltf',
+    (gltf) =>
+    {
+        gltf.scene.scale.set(0.2, 0.3, 0.2)
+        const mesh = new THREE.Mesh( geometry, material)
+        gltf.scene.position.z = 15
+        gltf.scene.rotation.x = 1.6
+        scene.add(gltf.scene)
+    }
+)
 
 const geometry = new THREE.CircleGeometry (1, 32 );
 const material = new THREE.MeshBasicMaterial( { color: '#121C24' } )
